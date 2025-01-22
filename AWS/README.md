@@ -1,0 +1,2 @@
+# AWS Projects
+This repository contains code and notes for a series of mini AWS projects I did following this YouTube tutorial: https://youtube.com/playlist?list=PLwyXYwu8kL0wMalR9iXJIPfiMYWNFWQzx&si=AYD7ZRPRtBhGb-Ny
